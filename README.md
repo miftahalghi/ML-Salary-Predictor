@@ -54,5 +54,5 @@ Project ini meliputi **end-to-end machine learning pipeline** mulai dari eksplor
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/Jeanpeg1/ML-Salary-Predictor.git
+   git clone https://github.com/miftahalghi/ML-Salary-Predictor.git
    cd ML-Salary-Predictor
